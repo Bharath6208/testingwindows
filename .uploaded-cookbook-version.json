@@ -1,0 +1,94 @@
+{
+  "all_files": [
+    {
+      "name": "root_files/LICENSE",
+      "path": "LICENSE",
+      "checksum": "18c5c254478db9def3839b9d0de5ca81",
+      "specificity": "default"
+    },
+    {
+      "name": "root_files/CHANGELOG.md",
+      "path": "CHANGELOG.md",
+      "checksum": "700b4cb4b435851a9b8bdab5a8cf00e1",
+      "specificity": "default"
+    },
+    {
+      "name": "compliance/README.md",
+      "path": "compliance/README.md",
+      "checksum": "a221da015866d6ee6f511672b8fc89cf",
+      "specificity": "default"
+    },
+    {
+      "name": "root_files/README.md",
+      "path": "README.md",
+      "checksum": "cd472abf765630734169da6df6c0ce0f",
+      "specificity": "default"
+    },
+    {
+      "name": "recipes/default.rb",
+      "path": "recipes/default.rb",
+      "checksum": "e8e687a5d84c0caaa5aa7e38f6a7e432",
+      "specificity": "default"
+    },
+    {
+      "name": "root_files/metadata.rb",
+      "path": "metadata.rb",
+      "checksum": "1e8272ffc5670ecc26144842b9eff0ed",
+      "specificity": "default"
+    },
+    {
+      "name": "root_files/chefignore",
+      "path": "chefignore",
+      "checksum": "7d1bb2b845312c449ca22b3a71f32d78",
+      "specificity": "default"
+    },
+    {
+      "name": "root_files/metadata.json",
+      "path": "metadata.json",
+      "checksum": "ef34acdeeb1ca09c033428b1f1d7c74c",
+      "specificity": "default"
+    }
+  ],
+  "metadata": {
+    "name": "testing_windows",
+    "description": "Installs/Configures testing_windows",
+    "long_description": "",
+    "maintainer": "The Authors",
+    "maintainer_email": "you@example.com",
+    "license": "All Rights Reserved",
+    "platforms": {
+
+    },
+    "dependencies": {
+
+    },
+    "providing": {
+      "testing_windows": ">= 0.0.0"
+    },
+    "recipes": {
+      "testing_windows": ""
+    },
+    "version": "0.1.0",
+    "source_url": "",
+    "issues_url": "",
+    "privacy": false,
+    "chef_versions": [
+      [
+        ">= 16.0"
+      ]
+    ],
+    "ohai_versions": [
+
+    ],
+    "gems": [
+
+    ],
+    "eager_load_libraries": true
+  },
+  "version": "0.1.0",
+  "name": "testing_windows-0.1.0",
+  "cookbook_name": "testing_windows",
+  "frozen?": false,
+  "chef_type": "cookbook_version",
+  "json_class": "Chef::CookbookVersion"
+}
